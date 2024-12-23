@@ -1,7 +1,8 @@
-<CustomFaction name="Starting Faction" id="startingfac" playerVal="0">
+<CustomFaction name="CSEC" id="CSEC" playerVal="0">
   
   <Action ValueRequired="1">
-    <AddAsset FileName="FTPBounce.exe" FileContents="#FTP_CRACK#" TargetComp="playerComp" TargetFolderpath="bin" />
+    <!--TODO: Add Mission 1 end dialogue -->
+    <ChangeAlertIcon Target="jmail" Type="mail" DelayHost="delayNode" Delay="0"/>
   </Action>
 
 </CustomFaction>

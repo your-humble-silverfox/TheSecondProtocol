@@ -1,5 +1,5 @@
 <?xml version = "1.0" encoding = "UTF-8" ?>
-<Computer id="CSECIrc" name="CSEC Admin IRC" type="4" icon="DLCServer" security="5" allowsDefaultBootModule="true">
+<Computer id="CSECIRC" name="CSEC Admin IRC" type="4" icon="DLCServer" security="5" allowsDefaultBootModule="true">
     <IRCDaemon themeColor="20,150,200" name="CSEC Admin IRC" needsAuth="true">
         <agent name="Vap0r" color="0,209,232"/>
         <post user="Vap0r"></post>

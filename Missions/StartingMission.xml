@@ -1,13 +1,12 @@
 <?xml version = "1.0" encoding = "UTF-8" ?>
-<mission id="startingMission">
+<mission id="startingMission" activeCheck="True">
   <goals>
     <!-- Goals here -->
+    <goal type="filedownload" target="smHostilePC" file="SSLTrojan.exe" path="bin"/>
+    <goal type="filedownload" target="smHostilePC" file="Decypher.exe" path="bin"/>
   </goals>
-  <!-- 
-  Add your mission start and end items here
-  missionStart val="0">loadConditionalActions:Actions/TestActions.xml</missionStart>
-  missionEnd val="1">addRank</missionEnd> 
-  -->
+  <missionStart val="0">NONE</missionStart>
+  <missionEnd val="1">addRank</missionEnd>
   <nextMission>NONE</nextMission>
   <!-- 
   <posting title="startingMission">This would be the post on a message board if it was on them.</posting>

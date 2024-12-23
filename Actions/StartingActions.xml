@@ -1,9 +1,14 @@
 <ConditionalActions>
   
   <Instantly>
-    <AddAsset FileName="RTSPCrack.exe" FileContents="#RTSP_EXE#" TargetComp="playerComp" TargetFolderpath="bin" />
-    <RunFunction FunctionName="setFaction:introfac" FunctionValue="0" />
-    
+    <RunFunction FunctionName="setFaction:CSEC" FunctionValue="0" />
+    <AddAsset FileName="SSHCrack.exe" FileContents="#SSH_CRACK#" TargetComp="playerComp" TargetFolderpath="bin"/>
+    <AddAsset FileName="FTPSprint.exe" FileContents="#FTP_FAST_EXE#" TargetComp="playerComp" TargetFolderpath="bin"/>
+    <AddAsset FileName="WebServerWorm.exe" FileContents="#WEB_CRACK#" TargetComp="playerComp" TargetFolderpath="bin"/>
+    <AddAsset FileName="ThemeChanger.exe" FileContents="#THEMECHANGER_EXE#" TargetComp="playerComp" TargetFolderpath="bin"/>
+    <ChangeAlertIcon Target="CSECIRC" Type="irc" DelayHost="delayNode" Delay="0.0"/>
+    <!--TODO: Add Dialogue & proper delays-->
+    <AddIRCMessage Author="Vap0r" TargetComp="CSECIRC" Delay="5.0">!ATTACHMENT:link#%#smproxy1#%#13.25.63.233</AddIRCMessage>
   </Instantly>
 
 </ConditionalActions>

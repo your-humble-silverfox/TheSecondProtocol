@@ -1,0 +1,7 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<Computer id="smProxy1" name="Server Proxirovania #481084" type="2" icon="chip" ip="13.25.63.233" allowsDefaultBootModule="true">
+    <ports>22,21,80</ports>
+    <portsForCrack val="3"/>
+    <!--TODO: Add misc files-->
+    <dlink target="smProxy2"/>
+</Computer>

@@ -1,0 +1,7 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<Computer id="smProxy2" name="Server Proxyrovania #17512" type="3" icon="chip" allowsDefaultBootModule="true">
+    <ports>21,22,80</ports>
+    <portsForCrack val="3"/>
+    <proxy time="1"/>
+    
+</Computer>

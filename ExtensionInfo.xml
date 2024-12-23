@@ -4,7 +4,7 @@
 	<AllowSaves>true</AllowSaves>
   
   <!-- a coma separated list of notes that start out as being visible-->
-	<StartingVisibleNodes></StartingVisibleNodes>
+	<StartingVisibleNodes>CSECIRC,CSECCross,CSECHub,CSECDrop</StartingVisibleNodes>
   
   <!-- the mission (if any) that loads in as soon as the player starts -->
   <StartingMission>Missions/StartingMission.xml</StartingMission>

@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<Computer id="smHostilePC" name="Mashtab71 Battlestation" type="2" icon="laptop" allowsDefaultBootModule="true">
+    <CustomConnectDisplayDaemon />
+    <!--TODO: Add Misc Files-->
+    <ports>21,22,80</ports>
+    <portsForCrack val="3"/>
+    <firewall level="2" additionalTime="0"/>
+    <proxy time="1.15"/>
+    <file path="bin" name="SMTPOverflow.exe">#SMPT_CRACK#</file>
+    <file path="bin" name="Decypher.exe">#DECYPHER_PROGRAM#</file>
+</Computer>
