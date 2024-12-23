@@ -1,0 +1,4 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<Computer id="CSECCross" name="CSEC Crossroads" type="3" icon="chip" security="5" allowsDefaultBootModule="true">
+    <!--TODO: Fill in blank files-->
+</Computer>

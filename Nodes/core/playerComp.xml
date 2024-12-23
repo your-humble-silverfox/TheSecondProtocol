@@ -1,0 +1,7 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<Computer id="playerComp" name="Genes1s Source" type="4" icon="DLCServer" allowsDefaultBootModule="true">
+    <ports>22,21,443,80</ports>
+    <portsForCrack val="4"/>
+    <firewall solution="undisclosed" additionalTime="1.2"/>
+    <portRemap>22=462,21=461,443=1243,80=8080</portRemap>
+</Computer>

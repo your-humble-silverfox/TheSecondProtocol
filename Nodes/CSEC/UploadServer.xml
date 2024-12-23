@@ -1,0 +1,4 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<Computer id="CSECDrop" name="CSEC Public Drop Server" type="3" icon="DLCServer" security="5" allowsDefaultBootModule="true">
+    <uploadServerDaemon name="CSEC Public File Drop" folder="Drop" needsAuth="false" color="20,150,200"/>
+</Computer>

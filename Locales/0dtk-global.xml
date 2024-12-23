@@ -1,0 +1,254 @@
+<Locale>
+    <en-us>
+        <l key="0dtk::tone_no">no|na|eh|sorry|can't|cant|decline|no can|off|won't|wont|couldn't|couldnt|shouldn't|shouldnt|shant|shan't</l>
+        <l key="0dtk::tone_yes">ye|yup|ok|alr|aight|lets|les|let's|leg|sure|wish me|got it|got this|cool|ready|rdy|can do|will|accept|bring|here i|here we|could|would|should|ought|shall</l>
+        <l key="0dtk::tone_help">stuck|can't|cant|what|hm|huh|?|not|help|aid|idea|how|hint|clue|doesn|nudge</l>
+        <l key="0dtk::tone_hey">guy|boy|girl|dude|folk|people|@channel|yall|y'all|ppl|everyone|someone|anyone|hey|sup</l>
+        <l key="0dtk::tone_1">1|one|first|former</l>
+        <l key="0dtk::tone_2">2|two|second</l>
+        <l key="0dtk::tone_3">3|three|third</l>
+        <l key="0dtk::tone_4">4|four|fourth</l>
+        <l key="0dtk::tone_5">5|five|fifth</l>
+        <l key="0dtk::tone_6">6|six|sixth</l>
+        <l key="0dtk::tone_7">7|seven|seventh</l>
+        <l key="0dtk::tone_8">8|eight|eighth</l>
+        <l key="0dtk::tone_9">9|nine|ninth</l>
+        <l key="0dtk::tone_10">10|ten|tenth</l>
+    </en-us>
+    <ko-kr>
+        <l key="0dtk::tone_no">아니|ㄴ|미안|못함|안할래|no|아닌|아뇨|아닙|아닝|싫어|싫엌|싫엉|싫은|싫다|싫닼|싫습|싫음|시러|실어|시렁|시름|못해|못함|못한|못합|못혀|안해|안할|안함|안한|안합|좆까|조까|지랄|엿먹|거절|거부|사절|몰라</l>
+        <l key="0dtk::tone_yes">네|ㅇ|엉|응|그래|ㄱ|드가자|그랴|가보자고|드간다|가자|좋아|ㅇㅋ|그럼|오케이|오키|yes|해볼|해보|할게|하지|물론|준비|그래|그랭|그랰|그려|예|옙|알겠|알겟|알겄|알것|알았|알앗|알아|좋다|좋닼|좋네|좋넼|좋은|당연|당근|수락|수긍|동의</l>
+        <l key="0dtk::tone_help">살려줘|살려주삼|헬프|도와줘|도움|살려|못하겠다|힌트좀|힌트|도와|모르|몰르|몰라|몰겠|막혔|막혀|미치겠|미쳤|흠|흐음|아이디어|아놔</l>
+        <l key="0dtk::tone_hey">있잖아|야|님|저기요|저기|근데|헤이|얘들|애들|친구|임마|얌마|새끼|새꺄|사람|인간|모두|전부|님들|동료|동업자|해커</l>
+        <l key="[filename (or use * for all files in folder)]">[파일명 (또는 *로 폴더 내모든 파일을 선택)]</l>
+        <l key="Copies file named [filename] from remote machine to specified local folder (/bin default)">원격 기기에서 지정된 로컬 폴더로 [파일명] 파일을 복사 (기본값: /bin)</l>
+        <l key="Scans for links on the connected machine and adds them to the Map">연결된 기기의 링크 탐색 및 맵에 추가</l>
+        <l key="Moves or renames [FILE] to [DESTINATION]&#xA;(i.e: mv hi.txt ../bin/hi.txt)">[파일]을 [대상]으로 옮기거나 이름 바꾸기&#xA;(예시: mv hi.txt ../bin/hi.txt)</l>
+        <l key="Scans the connected machine for&#xA;active ports and security level">연결된 기기의 활성 포트와&#xA;보안 레벨을 검사</l>
+        <l key="Reboots the connected computer. The -i flag reboots instantly">연결된 컴퓨터를 재시작. -i 플래그를 사용해 즉시 재시작</l>
+        <l key="Replaces the target text in the file with the replacement">파일 내 대상 텍스트를 대체재로 교체</l>
+        <l key="Performs an analysis pass on the firewall of the target machine">대상 기기의 방화벽 암호 분석 실행</l>
+        <l key="Terminate the current open connection. ALT: &quot;dc&quot;">현재 열린 연결 종료 (또는 &quot;dc&quot;)</l>
+        <l key="Attempts to solve the firewall of target machine to allow UDP Traffic">UDP 트래픽을 허가하도록 대상 기기의 방화벽 무력화 시도</l>
+        <l key="Requests a username and password to log in to the connected system">연결된 시스템의 로그인 비밀번호 및 유저명 요청</l>
+        <l key="Uploads the indicated file on your local machine to the current connected directory">로컬 기기에서 이 폴더로 파일 업로드</l>
+        <l key="Appends a line containing [DATA] to [FILENAME]">[데이터]가 담긴 줄을 [파일명]에 추가</l>
+        <l key="Opens a remote access shell on target machine with Proxy overload&#xA; and IP trap capabilities">해당 기기에 프록시 과부하와 IP 트래핑이 가능한 원격 조종 쉘 생성</l>
+        <l key="Creates an empty folder">빈 폴더 생성</l>
+        <l key="Creates a new file">새 파일 생성</l>
+        <l key="Sends a text message to the active IRC">현재 접속 중인 IRC 채팅에 메시지 전송</l>
+        <l key="Encodes the file to Base64">파일을 Base64로 암호화</l>
+        <l key="Decodes the file from Base64">파일을 Base64로부터 복호화</l>
+        <l key="Encodes the file to Binary">파일을 이진수로 암호화</l>
+        <l key="Decodes the file from Binary">파일을 이진수로부터 복호화</l>
+        <l key="Compresses the folder into a file">폴더를 파일로 압축</l>
+        <l key="Decompresses the zip file into a folder">파일을 폴더로 압축 해제</l>
+        <l key="Fatal error has occured while executing this command, Command aborted.">심각한 오류가 발생, 명령 실행 중단</l>
+        <l key="Overload" exact="true">과부하</l>
+        <l key="Error 404">에러 404</l>
+        <l key="Disconnect" exact="true">접속 해제</l>
+        <l key="Workshop" exact="true">창작마당</l>
+        <l key="Firmware Config">펌웨어 설정</l>
+        <l key="Music Changer">음악 설정</l>
+        <l key="Shuffle Music">셔플</l>
+        <l key="NOTE" exact="true">비고</l>
+        <l key="Audio Visualiser">음향 시각화</l>
+        <l key="Sound Effects Volume">효과음 볼륨</l>
+        <l key="[PAGE NUMBER]">[페이지]</l>
+        <l key="[filename]">[파일명]</l>
+        <l key="[filename] [OPTIONAL: destination]">[파일명] [선택: 대상]</l>
+        <l key="[filename] [OPTIONAL: content]">[파일명] [선택: 내용]</l>
+        <l key="[foldername]">[폴더명]</l>
+        <l key="[message]">[메시지]</l>
+        <l key="[LOCAL FILE PATH]">[파일 경로]</l>
+        <l key="[FILE]">[파일]</l>
+        <l key="[FOLDER]">[폴더]</l>
+        <l key="[FILE] [DESTINATION]">[파일] [대상]</l>
+        <l key="[OPTIONAL: -i]">[선택: -i]</l>
+        <l key="[filename] &quot;target&quot; &quot;replacement&quot;">[파일명] &quot;대상&quot; &quot;대체재&quot;</l>
+        <l key="[NOTE]">[메모]</l>
+        <l key="[FILENAME] [DATA]">[파일명] [데이터]</l>
+        <l key="[content]">[내용]</l>
+        <l key="[expression]">[수식]</l>
+        <l key="[command]">[명령어]</l>
+        <l key="[command] [command...]">[명령어] [명령어...]</l>
+        <l key="[seconds]">[시간:초]</l>
+        <l key="[OPTIONAL: -i]">[선택: -i]</l>
+        <l key="Usage: hostname [-i]">사용법: hostname [-i]</l>
+        <l key="Prints the name or ip of the connected device">현재 연결된 기기의 이름 혹은 IP 주소를 출력</l>
+        <l key="Prints the content to the console">내용을 콘솔에 출력</l>
+        <l key="Prints the current time">현재 시간을 출력</l>
+        <l key="Evaluates the given expression">주어진 수식을 계산</l>
+        <l key="Displays the first part of file">파일의 첫 내용을 출력</l>
+        <l key="Displays the last part of file">파일의 마지막 내용을 출력</l>
+        <l key="Prints the history of commands executed">사용한 명령어의 내역을 출력</l>
+        <l key="Prints the usage of that command">해당 명령어의 사용법을 출력</l>
+        <l key="Failed to fetch manual for the command">해당 명령어의 사용법을 불러올 수 없음</l>
+        <l key="[filename] [OPTIONAL: number of lines]">[파일명] [선택: 줄 수]</l>
+
+        <l key="USERNAME" exact="true">유저명</l>
+        <l key="CONFIRM PASS">비밀번호 확인</l>
+        <l key="Initializing .">시작 중 .</l>
+        <l key="Loading modules.">모듈 불러오는 중.</l>
+        <l key="Loading nodes.">노드 불러오는 중.</l>
+        <l key="Reticulating splines.">박판 분석 중.</l>
+        <l key="Complete" exact="true">완료</l>
+        <l key="&#xA;--Initialization Complete--&#xA;">&#xA;--환영합니다--&#xA;</l>
+        <l key="Usage: connect [WHERE TO CONNECT TO]">사용법: connect [연결할 기기의 주소]</l>
+        <l key="Connection Established ::">연결 성공::</l>
+        <l key="Connected To">주소: </l>
+        <l key="External Computer Refused Connection">외부 기기가 연결을 거부함</l>
+        <l key="Failed to Connect:&#xA;Could Not Find Computer at">연결 실패&#xA;해당 주소의 기기를 찾지 못함: </l>
+        <l key="Usage: mkdir [foldername]">사용법: mkdir [폴더명]</l>
+        <l key="Disconnected &#xA;">접속 해제됨</l>
+        <l key="User ">유저 </l>
+        <l key="Admin Login Successful">관리자 로그인 성공</l>
+        <l key=" Login Successful"> 로그인 성공</l>
+        <l key="Login Failed">로그인 실패</l>
+        <l key="--Folder Empty --">-- 비었음 --</l>
+        <l key="Insufficient Privileges to Perform Operation">실행 권한 부족</l>
+        <l key="Usage: cat [FILENAME]">사용법: cat [파일명]</l>
+        <l key="File Not Found&#xA;">파일을 찾지 못함&#xA;</l>
+        <l key="No Running Processes">작동중인 프로세스가 없음</l>
+        <l key="Process" exact="true">프로세스</l>
+        <l key="Ended" exact="true">를 종료함</l>
+        <l key="Must be Connected to a Non-Local Host&#xA;">다른 기기에 연결되어 있어야 함&#xA;</l>
+        <l key="Not Enough Arguments">인자가 너무 적음</l>
+        <l key="File" exact="true">파일</l>
+        <l key="FILE" exact="true">파일</l>
+        <l key="Does Not Exist&#xA;"> 이 존재하지 않음&#xA;</l>
+        <l key="Copying Remote File">파일 복사: </l>
+        <l key="to Local Folder">대상 폴더: </l>
+        <l key="SCP ERROR: File not found.">SCP 오류: 파일이 존재하지 않음</l>
+        <l key="Transfer Complete&#xA;">전송 완료&#xA;</l>
+        <l key="Insufficient Privileges to Perform Operation : This File Requires Admin Access&#xA;">실행 권한 부족: 관리자 권한이 필요함</l>
+        <l key="Connect to a REMOTE host and run upload with a LOCAL filepath&#xA;">외부 기기에 접속해 내부 파일 경로로 upload 실행&#xA;</l>
+        <l key="Insufficient user permissions to upload">업로드 권한 부족</l>
+        <l key="Local Folder ">폴더 </l>
+        <l key=" not found.">를 찾을 수 없음</l>
+        <l key="File ">파일 </l>
+        <l key=" not found at specified filepath.">을 해당 경로에서 찾을 수 없음</l>
+        <l key="Uploading Local File ">파일</l>
+        <l key="Invalid Expression">오류: 잘못된 식</l>
+        <l key="to Remote Folder ">을 외부 폴더로 업로드: </l>
+        <l key="Usage: replace targetFile.txt &quot;Target String&quot; &quot;Replacement String&quot;">사용법: replace 대상파일.txt &quot;대상 문구&quot; &quot;대체재 문구&quot;</l>
+        <l key="Assuming active flag file ">기본값으로 현재 선택된 파일 수정: </l>
+        <l key="Assuming active file ">기본값으로 현재 선택된 파일 수정: </l>
+        <l key="REPLACE ERROR: Replacement will cause file to be too long.">REPLACE 오류: 파일이 너무 큼</l>
+        <l key="Format Error: Target and Replacement strings not found.">포맷 오류: 대상 및 대체재 문구를 찾지 못함</l>
+        <l key=" Not found!">를 찾을 수 없음</l>
+        <l key="Folder ">폴더 </l>
+        <l key=" not found!">를 찾을 수 없음</l>
+        <l key="SOLVE" exact="true">해제</l>
+        <l key="Syndicated UDP Traffic Enabled">조직적 UDP 트래픽 활성화</l>
+        <l key="Incorrect bypass sequence">통과 암호 불일치</l>
+        <l key="Available Executables">사용 가능한 프로그램</l>
+        <l key="Found Terminal">터미널 발견</l>
+        <l key="Usage: cd [WHERE TO GO or .. TO GO BACK]">사용법: cd [가는 곳 또는 .. 으로 뒤로가기]</l>
+        <l key="Open Ports Required for Crack">크랙에 필요한 열린 포트 갯수</l>
+        <l key="Port#:">포트 번호:</l>
+        <l key="OPEN">열림</l>
+        <l key="Rebooting Connected System">연결된 시스템 재부팅</l>
+        <l key="System Reboot in">재부팅까지: </l>
+        <l key="Rebooting requires Admin access">재부팅에 관리자 권한이 필요함</l>
+        <l key="Steam Cloud saving disabled by Pathfinder">Pathfinder 감지: Steam Cloud 저장 비활성화</l>
+        <l key="Connected to">연결됨:</l>
+        <l key="FTP Server">FTP 서버</l>
+        <l key="SMTP MailServer">SMTP 메일 서버</l>
+        <l key="HTTP WebServer">HTTP 웹 서버</l>
+        <l key="Blizzard Updater">블리자드 업데이터</l>
+        <l key="SQL Server">SQL 서버</l>
+        <l key="Medical Services">의료 서비스</l>
+        <l key="eOS Connection Manager">eOS 연결 도우미</l>
+        <l key="Version Control">버전 관리자</l>
+        <l key="Pacific Dedicated">퍼시픽 전용</l>
+        <l key="Backdoor Connection">백도어 연결</l>
+        <l key="MQTT Protocol">MQTT 프로토콜</l>
+        <l key="Network Time Protocol">네트워크 시계 프로토콜</l>
+        <l key="Docker Plaintext API">Docker 텍스트 API</l>
+        <l key="Telnet Protocol">Telnet 프로토콜</l>
+        <l key="default" exact="true">기본값</l>
+        <l key="medium" exact="true">중간</l>
+        <l key="large" exact="true">크게</l>
+
+        <l key="Usage: append [FILENAME] [LINE TO APPEND]">사용법: append [파일명] [추가할 줄]</l>
+        <l key="No filename provided">파일명이 비었음</l>
+        <l key=" For editing"></l>
+        <l key="&#xA;Flag to add required&#xA;">&#xA;추가할 플래그가 필요함&#xA;</l>
+        <l key="&#xA;Node ID Required&#xA;">&#xA;노드 ID가 필요함&#xA;</l>
+        <l key="Node ID Not found">노드 ID를 찾지 못함</l>
+        <l key="BLOCKED">차단됨</l>
+        <l key="SAFE">안전</l>
+        <l key="Error launching script">스크립트 실행 실패: </l>
+        <l key="Invalid Page Number">페이지 없음</l>
+        <l key="Displaying First Page">첫 페이지 표시</l>
+        <l key="Execution failed">실행 실패</l>
+        <l key="No Command">존재하지 않는 명령어: </l>
+        <l key=" - Check Syntax&#xA;"> - 오타 확인</l>
+        <l key="Insufficient Permissions">권한 없음</l>
+        <l key="You must input the file name">파일명이 비었음</l>
+        <l key="File does not exist">파일이 존재하지 않음</l>
+        <l key="Target file does not exist">대상 파일이 존재하지 않음</l>
+        <l key="File is not a valid ">파일이 </l>
+        <l key="Binary">이진수</l>
+        <l key=" format"> 암호화 포맷이 아님</l>
+        <l key="This computer does not have an IRC Daemon.">이 컴퓨터에 IRC 인스턴스가 없음</l>
+        <l key="No port number Provided">포트 넘버가 제공되지 않음</l>
+        <l key="Target Port is Closed">대상 포트가 닫혀있음</l>
+        <l key="Target Port running incompatible service for this executable">대상 포트가 이 실행파일과 호환되지 않는 서비스 실행 중</l>
+        <l key="Execution failed">실행 실패</l>
+        <l key="Unzipping ">압축 해제중: </l>
+
+        <l key="[GitTunnel For Hacknet BETA] Operation Finished">[Hacknet용 GitTunnel 베타] 구동 완료</l>
+        <l key=". . . MQTTPWN . . . // Thank you for using our service.">. . . MQTTPWN . . . // 저희 서비스를 이용해 주셔서 감사합니다.</l>
+        <l key="thanks from /el/ &lt;3">고맙다 -/el/</l>
+        <l key="TOP TEXT">전국~~</l>
+        <l key="BOTTOM TEXT">노래자랑~~~~</l>
+        <l key="H A C K I N G">해 킹 이</l>
+        <l key="I N">진 행</l>
+        <l key="P R O G R E S S . .">중 입 니 다 . .</l>
+        <l key="P R O C E S S">진 행</l>
+        <l key="F I N I S H E D">완 료</l>
+        <l key="*kill this pls">*kill칠것</l>
+        <l key="================================&#xA;//                                             \\\\&#xA;\\\\      SQL_TX_Crasher v0.0.5       //&#xA;//       a.k.a. THE LAST RESORT       \\\\&#xA;\\\\                                             //&#xA;================================">================================&#xA;//                                             \\\\&#xA;\\\\      SQL_TX_Crasher v0.0.5       //&#xA;//          - 최후의 보루 -           \\\\&#xA;\\\\                                             //&#xA;================================</l>
+        <l key="================================&#xA;//                                            \\\\&#xA;\\\\           PROCESS                      //&#xA;//                FINISHED                \\\\&#xA;\\\\                                            //&#xA;================================">================================&#xA;//                                            \\\\&#xA;\\\\               처리                     //&#xA;//                    완료                \\\\&#xA;\\\\                                            //&#xA;================================</l>
+        <l key="- Crashing... -">- 손상중... -</l>
+        <l key="- Completed. -">- 완료. -</l>
+        <l key="&gt;S&gt; Let's do this. &gt;S&gt;">&gt;S&gt; 해보자고. &gt;S&gt;</l>
+        <l key="&gt;S&gt; SSH? Swiftly Shafted. Thank me later. &gt;S&gt;">&gt;S&gt; SSH? 소멸했다. 감사인사는 나중에. &gt;S&gt;</l>
+        <l key="Sit back and watch it go.">가만히 앉아서 구경이나 해.</l>
+        <l key="And done.">끝.</l>
+        <l key="[teleSMOOTH] Starting task">[teleSMOOTH] 작업 시작</l>
+
+        <l key="__COMMENT">I have, in fact, not kept words such as "probe", "scan", "firewall" and "proxy" in english as it is not how korean is usually used and it looks quite clunky. Feel free to remove the below keys if you'd like that authenticity back.</l>
+
+        <l key="Firewall Solved">방화벽 무력화됨</l>
+        <l key="Firewall Detected">방화벽 감지됨</l>
+        <l key="Proxy Bypassed">프록시 우회됨</l>
+        <l key="Proxy Detected">프록시 감지됨</l>
+        <l key="Scan Network">네트워크 탐색</l>
+        <l key="Probe System">시스템 검사</l>
+        <l key="Scan" exact="true">탐색</l>
+        <l key="Scanning for">탐색 중</l>
+        <l key="Enter IP Address to Scan for">탐색할 IP 주소 입력</l>
+        <l key="This computer is already running a shell.">이미 쉘을 실행 중입니다</l>
+        <l key="Bypass Firewall to allow unrestricted traffic">방화벽을 우회하여 트래픽 허가</l>
+        <l key="Add Note">메모 추가</l>
+        <l key="Close Notes to Free Space">공간 확보를 위해 메모 닫기</l>
+        <l key="[FIREWALL SOLUTION]">[방화벽 정답]</l>
+        <l key="Proxy Active">프록시 감지됨</l>
+        <l key="THREAT DETECTED: Proxy Reenabled">위협 감지: 프록시 재활성화</l>
+        <l key="THREAT DETECTED: Firewall Reenabled">위협 감지: 방화벽 재활성화</l>      
+        <l key="No Firewall Detected">방화벽이 감지되지 않음</l>  
+        <l key="Scanning" exact="true">탐색 중</l>
+        <l key="Scan Complete&#xA;">탐색 완료&#xA;</l>
+        <l key="Scanning Requires Admin Access&#xA;">탐색은 관리자 권한이 필요함&#xA;</l>
+        <l key="&#xA;Probe Complete - Open ports:&#xA;">&#xA;검사 완료 - 열린 포트:&#xA;</l>
+        <l key="Proxy Detected">프록시 감지됨</l>
+        <l key="ACTIVE" exact="true">활성화</l>
+        <l key="INACTIVE" exact="true">비활성화</l>
+        <l key="Firewall Detected">방화벽 감지됨</l>
+        <l key="SOLVED" exact="true">해제됨</l>
+        <l key="Probing ">검사 중: </l>
+    </ko-kr>
+</Locale>

@@ -1,0 +1,4 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<Computer id="CSECHub" name="CSEC" type="4" icon="DLCServer" security="5" allowsDefaultBootModule="true">
+    <missionHubServer groupName="csec" serviceName="CSEC Contract Hub" missionFolderPath="Missions/CSEC" themeColor="20,150,200" lineColor="20,100,125" backgroundColor="20,20,20" allowAbandon="false"/>
+</Computer>
